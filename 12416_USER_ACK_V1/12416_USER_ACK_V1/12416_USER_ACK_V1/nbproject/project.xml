@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>12416_USER_ACK_V1</name>
+            <name>12416_Rev_F_100_INHOUSE_SONEIL</name>
+            <name>12416_Rev_F_100_INHOUSE_SONEIL</name>
+            <name>12416_Rev_E_100_INHOUSE</name>
+            <name>12416_Rev_D_100_INHOUSE</name>
+            <name>12416_Rev_D</name>
+            <name>AmigoLCD_Rev2_4_2</name>
+            <name>AmigoLCD_Rev2_4_1</name>
+            <name>AmigoLCD_Rev2_4</name>
+            <name>AmigoLCD_Rev2_3</name>
+            <name>AmigoLCD_Rev2_2</name>
+            <name>AmigoLCD_Rev2_1</name>
+            <name>AmigoLCD_Rev2_1</name>
+            <name>AmigoLCD_Rev1</name>
+            <name>AmigoLCD_Factory</name>
+            <creation-uuid>0308b6fe-7895-40f9-977c-bbd8b5d04bf0</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <sourceEncoding>UTF-8</sourceEncoding>
+            <asminc-extensions/>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>../..</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>

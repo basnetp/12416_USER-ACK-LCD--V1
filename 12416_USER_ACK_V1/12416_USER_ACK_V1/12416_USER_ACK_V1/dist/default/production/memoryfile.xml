@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/12416_USER_ACK_V1.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>98304</length>
+      <used>84820</used>
+      <free>13484</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>261876</length>
+      <used>142161</used>
+      <free>119715</free>
+    </memory>
+  </executable>
+</project>

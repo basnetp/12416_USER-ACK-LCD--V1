@@ -1,0 +1,260 @@
+GIMP Palette
+Name: amigo2
+Columns: 16
+#
+  0   0   0	Index 0
+128   0   0	Index 1
+  0 128   0	Index 2
+128 128   0	Index 3
+  0   0 128	Index 4
+128   0 128	Index 5
+  0 128 128	Index 6
+192 192 192	Index 7
+192 220 192	Index 8
+166 202 240	Index 9
+ 64  32   0	Index 10
+ 96  32   0	Index 11
+128  32   0	Index 12
+160  32   0	Index 13
+192  32   0	Index 14
+224  32   0	Index 15
+  0  64   0	Index 16
+ 32  64   0	Index 17
+ 64  64   0	Index 18
+ 96  64   0	Index 19
+128  64   0	Index 20
+160  64   0	Index 21
+192  64   0	Index 22
+224  64   0	Index 23
+  0  96   0	Index 24
+ 32  96   0	Index 25
+ 64  96   0	Index 26
+ 96  96   0	Index 27
+128  96   0	Index 28
+160  96   0	Index 29
+192  96   0	Index 30
+224  96   0	Index 31
+  0 128   0	Index 32
+ 32 128   0	Index 33
+ 64 128   0	Index 34
+ 96 128   0	Index 35
+128 128   0	Index 36
+160 128   0	Index 37
+192 128   0	Index 38
+224 128   0	Index 39
+  0 160   0	Index 40
+ 32 160   0	Index 41
+ 64 160   0	Index 42
+ 96 160   0	Index 43
+128 160   0	Index 44
+160 160   0	Index 45
+192 160   0	Index 46
+224 160   0	Index 47
+  0 192   0	Index 48
+ 32 192   0	Index 49
+ 64 192   0	Index 50
+ 96 192   0	Index 51
+128 192   0	Index 52
+160 192   0	Index 53
+192 192   0	Index 54
+224 192   0	Index 55
+  0 224   0	Index 56
+ 32 224   0	Index 57
+ 64 224   0	Index 58
+ 96 224   0	Index 59
+128 224   0	Index 60
+160 224   0	Index 61
+192 224   0	Index 62
+224 224   0	Index 63
+  0   0  64	Index 64
+ 32   0  64	Index 65
+ 64   0  64	Index 66
+ 96   0  64	Index 67
+128   0  64	Index 68
+160   0  64	Index 69
+192   0  64	Index 70
+224   0  64	Index 71
+  0  32  64	Index 72
+ 32  32  64	Index 73
+ 64  32  64	Index 74
+ 96  32  64	Index 75
+128  32  64	Index 76
+160  32  64	Index 77
+192  32  64	Index 78
+224  32  64	Index 79
+  0  64  64	Index 80
+ 32  64  64	Index 81
+ 64  64  64	Index 82
+ 96  64  64	Index 83
+128  64  64	Index 84
+160  64  64	Index 85
+192  64  64	Index 86
+224  64  64	Index 87
+  0  96  64	Index 88
+ 32  96  64	Index 89
+ 64  96  64	Index 90
+ 96  96  64	Index 91
+128  96  64	Index 92
+160  96  64	Index 93
+192  96  64	Index 94
+224  96  64	Index 95
+  0 128  64	Index 96
+ 32 128  64	Index 97
+ 64 128  64	Index 98
+ 96 128  64	Index 99
+128 128  64	Index 100
+160 128  64	Index 101
+192 128  64	Index 102
+224 128  64	Index 103
+  0 160  64	Index 104
+ 32 160  64	Index 105
+ 64 160  64	Index 106
+ 96 160  64	Index 107
+128 160  64	Index 108
+160 160  64	Index 109
+192 160  64	Index 110
+224 160  64	Index 111
+  0 192  64	Index 112
+ 32 192  64	Index 113
+ 64 192  64	Index 114
+ 96 192  64	Index 115
+128 192  64	Index 116
+160 192  64	Index 117
+192 192  64	Index 118
+224 192  64	Index 119
+  0 224  64	Index 120
+ 32 224  64	Index 121
+ 64 224  64	Index 122
+ 96 224  64	Index 123
+128 224  64	Index 124
+160 224  64	Index 125
+192 224  64	Index 126
+224 224  64	Index 127
+  0   0 128	Index 128
+ 32   0 128	Index 129
+ 64   0 128	Index 130
+ 96   0 128	Index 131
+128   0 128	Index 132
+160   0 128	Index 133
+192   0 128	Index 134
+224   0 128	Index 135
+  0  32 128	Index 136
+ 32  32 128	Index 137
+ 64  32 128	Index 138
+ 96  32 128	Index 139
+128  32 128	Index 140
+160  32 128	Index 141
+192  32 128	Index 142
+224  32 128	Index 143
+  0  64 128	Index 144
+ 32  64 128	Index 145
+ 64  64 128	Index 146
+ 96  64 128	Index 147
+128  64 128	Index 148
+160  64 128	Index 149
+192  64 128	Index 150
+224  64 128	Index 151
+  0  96 128	Index 152
+ 32  96 128	Index 153
+ 64  96 128	Index 154
+ 96  96 128	Index 155
+128  96 128	Index 156
+160  96 128	Index 157
+192  96 128	Index 158
+224  96 128	Index 159
+  0 128 128	Index 160
+ 32 128 128	Index 161
+ 64 128 128	Index 162
+ 96 128 128	Index 163
+128 128 128	Index 164
+160 128 128	Index 165
+192 128 128	Index 166
+224 128 128	Index 167
+  0 160 128	Index 168
+ 32 160 128	Index 169
+ 64 160 128	Index 170
+ 96 160 128	Index 171
+128 160 128	Index 172
+160 160 128	Index 173
+192 160 128	Index 174
+224 160 128	Index 175
+  0 192 128	Index 176
+ 32 192 128	Index 177
+ 64 192 128	Index 178
+ 96 192 128	Index 179
+128 192 128	Index 180
+160 192 128	Index 181
+192 192 128	Index 182
+224 192 128	Index 183
+  0 224 128	Index 184
+ 32 224 128	Index 185
+ 64 224 128	Index 186
+ 96 224 128	Index 187
+128 224 128	Index 188
+160 224 128	Index 189
+192 224 128	Index 190
+224 224 128	Index 191
+  0   0 192	Index 192
+ 32   0 192	Index 193
+ 64   0 192	Index 194
+ 96   0 192	Index 195
+128   0 192	Index 196
+160   0 192	Index 197
+192   0 192	Index 198
+224   0 192	Index 199
+  0  32 192	Index 200
+ 32  32 192	Index 201
+ 64  32 192	Index 202
+ 96  32 192	Index 203
+128  32 192	Index 204
+160  32 192	Index 205
+192  32 192	Index 206
+224  32 192	Index 207
+  0  64 192	Index 208
+ 32  64 192	Index 209
+ 64  64 192	Index 210
+ 96  64 192	Index 211
+128  64 192	Index 212
+160  64 192	Index 213
+192  64 192	Index 214
+224  64 192	Index 215
+  0  96 192	Index 216
+ 32  96 192	Index 217
+ 64  96 192	Index 218
+ 96  96 192	Index 219
+128  96 192	Index 220
+160  96 192	Index 221
+192  96 192	Index 222
+224  96 192	Index 223
+  0 128 192	Index 224
+ 32 128 192	Index 225
+ 64 128 192	Index 226
+ 96 128 192	Index 227
+128 128 192	Index 228
+160 128 192	Index 229
+192 128 192	Index 230
+224 128 192	Index 231
+  0 160 192	Index 232
+ 32 160 192	Index 233
+ 64 160 192	Index 234
+ 96 160 192	Index 235
+128 160 192	Index 236
+160 160 192	Index 237
+192 160 192	Index 238
+224 160 192	Index 239
+  0 192 192	Index 240
+ 32 192 192	Index 241
+ 64 192 192	Index 242
+ 96 192 192	Index 243
+128 192 192	Index 244
+160 192 192	Index 245
+255 251 240	Index 246
+160 160 164	Index 247
+128 128 128	Index 248
+255   0   0	Index 249
+  0 255   0	Index 250
+255 255   0	Index 251
+  0   0 255	Index 252
+255   0 255	Index 253
+  0 255 255	Index 254
+255 255 255	Index 255
